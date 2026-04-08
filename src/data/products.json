@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "smartphones",
+      "title": "Smartphones",
+      "benefit": "Latest Android & flagship phones — original, boxed, warranty-backed.",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800&q=80"
+    },
+    {
+      "id": "smartwatches",
+      "title": "Smartwatches",
+      "benefit": "Fitness tracking, notifications, and style — paired to your lifestyle.",
+      "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&q=80"
+    },
+    {
+      "id": "audio",
+      "title": "Earbuds & Headphones",
+      "benefit": "True wireless, ANC, and studio sound for work and play.",
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80"
+    },
+    {
+      "id": "power",
+      "title": "Chargers & Power Banks",
+      "benefit": "Fast charging bricks, cables, and portable power that lasts.",
+      "image": "https://images.unsplash.com/photo-1609091839311-d5365f9ff1c5?w=800&q=80"
+    },
+    {
+      "id": "laptops",
+      "title": "Laptops & Accessories",
+      "benefit": "Productivity machines, bags, hubs, and keyboards — ready for school & work.",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&q=80"
+    },
+    {
+      "id": "gaming",
+      "title": "Gaming Gadgets",
+      "benefit": "Controllers, headsets, and gear that keep you in the game.",
+      "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+    },
+    {
+      "id": "smarthome",
+      "title": "Smart Home",
+      "benefit": "Lights, plugs, and assistants that make home smarter.",
+      "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+    }
+  ],
+  "products": [
+    {
+      "id": "iphone-15-pro-bundle",
+      "name": "iPhone 15 Pro (128GB)",
+      "category": "smartphones",
+      "benefit": "Titanium build, pro camera — genuine with warranty options.",
+      "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=800&q=80",
+      "priceGhs": 14200,
+      "featured": true,
+      "deal": true,
+      "priceLabel": "From ₵14,200"
+    },
+    {
+      "id": "samsung-s24-ultra",
+      "name": "Samsung Galaxy S24 Ultra",
+      "category": "smartphones",
+      "benefit": "S Pen, 200MP camera — flagship power for pros.",
+      "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&q=80",
+      "priceGhs": 13800,
+      "featured": true,
+      "deal": false,
+      "priceLabel": "From ₵13,800"
+    },
+    {
+      "id": "airpods-pro-2",
+      "name": "AirPods Pro (2nd gen)",
+      "category": "audio",
+      "benefit": "ANC, spatial audio — original with charging case.",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "priceGhs": 2200,
+      "featured": true,
+      "deal": true,
+      "priceLabel": "₵2,200"
+    },
+    {
+      "id": "apple-watch-ultra",
+      "name": "Apple Watch Ultra 2",
+      "category": "smartwatches",
+      "benefit": "Rugged, precision GPS — for athletes and daily wear.",
+      "image": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=800&q=80",
+      "priceGhs": 6200,
+      "featured": true,
+      "deal": false,
+      "priceLabel": "From ₵6,200"
+    },
+    {
+      "id": "anker-powerbank",
+      "name": "Anker 20,000mAh Power Bank",
+      "category": "power",
+      "benefit": "Fast charging for phones & tablets — travel essential.",
+      "image": "https://images.unsplash.com/photo-1589492477829-5e65395b66cc?w=800&q=80",
+      "priceGhs": 380,
+      "featured": false,
+      "deal": true,
+      "priceLabel": "₵380"
+    },
+    {
+      "id": "macbook-air-m3",
+      "name": "MacBook Air (M3)",
+      "category": "laptops",
+      "benefit": "Silent, fast, all-day battery — ideal for students & creators.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&q=80",
+      "priceGhs": 11200,
+      "featured": true,
+      "deal": false,
+      "priceLabel": "From ₵11,200"
+    },
+    {
+      "id": "ps5-dualsense",
+      "name": "PS5 DualSense Controller",
+      "category": "gaming",
+      "benefit": "Haptic feedback & adaptive triggers — genuine accessories.",
+      "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=800&q=80",
+      "priceGhs": 750,
+      "featured": false,
+      "deal": true,
+      "priceLabel": "₵750"
+    },
+    {
+      "id": "google-nest-mini",
+      "name": "Smart Speaker / Hub",
+      "category": "smarthome",
+      "benefit": "Voice control for lights, music, and routines.",
+      "image": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?w=800&q=80",
+      "priceGhs": 550,
+      "featured": false,
+      "deal": false,
+      "priceLabel": "₵550"
+    }
+  ]
+}
